@@ -2,7 +2,7 @@
 
 🔗 **[View Live Report](https://app.powerbi.com/view?r=eyJrIjoiNzg3OGE0MWEtNjY0Zi00M2RiLWE1OWMtMzMxZWZiYmEzNDdmIiwidCI6IjgxMTQ1ZWNkLTc5NTAtNDk4Ny1hOGFmLTJhMDY1YTgwMWVhYyJ9)** &nbsp;|&nbsp; 📃
 **[Dataset](Datasets)** &nbsp;|&nbsp; 📖
-**[Medium Article](https://medium.com/@kudehinbusamad/from-symptoms-to-strategy-how-i-built-a-patient-health-monitoring-dashboard-in-power-bi-345a7b4fdaa2)**
+**[Medium Article](https://medium.com/@kudehinbusamad/analysing-last-mile-delivery-performance-across-12-lagos-zones-a-sql-power-bi-case-study-2c3b8805b20e)**
  &nbsp;|&nbsp; 👤 **[LinkedIn](https://www.linkedin.com/in/abdulsamad-kudehinbu/)** &nbsp;|&nbsp; 🌐 **[Portfolio](https://sites.google.com/view/abdulsamadportfolio/home)**  
 ---
 
