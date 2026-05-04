@@ -1,0 +1,13 @@
+zone_id,zone_name,zone_type,avg_traffic_score,congestion_level
+1,Ikeja,Mainland,14.2,High
+2,Surulere,Mainland,11.8,High
+3,Yaba,Mainland,9.5,Medium
+4,Mushin,Mainland,10.1,Medium
+5,Oshodi,Mainland,8.7,Medium
+6,Lagos Island,Island,12.4,High
+7,Victoria Island,Island,6.3,Low
+8,Lekki Phase 1,Island,7.9,Low
+9,Lekki Phase 2,Island,9.2,Medium
+10,Ajah,Island,11.6,High
+11,Ikorodu,Mainland,16.3,High
+12,Apapa,Mainland,10.8,Medium

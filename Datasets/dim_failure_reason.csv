@@ -1,0 +1,9 @@
+failure_reason_id,reason_description,category,frequency_weight
+1,Customer Unavailable,Customer,0.28
+2,Wrong Address,Data Quality,0.18
+3,Traffic Delay,Operational,0.22
+4,Package Damaged,Operational,0.07
+5,Courier No-Show,Courier,0.08
+6,Security Restriction,External,0.06
+7,Weather Condition,External,0.05
+8,Recipient Refused,Customer,0.06
